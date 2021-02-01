@@ -1,7 +1,7 @@
 # CompactTimer
 
 ## システム名
-* コンパクトタイマー
+* CompactTimer(コンパクトタイマー)
 
 ## 概要
 
